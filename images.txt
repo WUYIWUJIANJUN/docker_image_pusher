@@ -1,2 +1,2 @@
 vinlic/qwen-free-api:latest
-
+vinlic/kimi-free-api
