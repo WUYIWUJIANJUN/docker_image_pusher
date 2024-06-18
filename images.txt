@@ -1,1 +1,2 @@
+vinlic/qwen-free-api:latest
 
