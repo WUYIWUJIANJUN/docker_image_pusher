@@ -2,3 +2,4 @@ vinlic/qwen-free-api:latest
 vinlic/kimi-free-api
 whyour/qinglong:latest
 mtphotos/mt-photos:latest
+zerotier/zerotier:latest
