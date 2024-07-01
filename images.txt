@@ -4,3 +4,4 @@ whyour/qinglong:latest
 mtphotos/mt-photos:latest
 zerotier/zerotier:latest
 spikhalskiy/zerotier
+linuxserver/qbittorrent
