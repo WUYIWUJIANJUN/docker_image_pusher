@@ -5,3 +5,4 @@ mtphotos/mt-photos:latest
 zerotier/zerotier:latest
 spikhalskiy/zerotier
 linuxserver/qbittorrent
+gdy666/lucky
