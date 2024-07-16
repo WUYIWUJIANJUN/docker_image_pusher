@@ -6,3 +6,4 @@ zerotier/zerotier:latest
 spikhalskiy/zerotier
 linuxserver/qbittorrent
 gdy666/lucky
+justsong/one-api
