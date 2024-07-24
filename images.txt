@@ -7,3 +7,4 @@ spikhalskiy/zerotier
 linuxserver/qbittorrent
 gdy666/lucky
 justsong/one-api
+odoo:14.0
