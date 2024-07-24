@@ -8,3 +8,4 @@ linuxserver/qbittorrent
 gdy666/lucky
 justsong/one-api
 odoo:14.0
+postgres:13
