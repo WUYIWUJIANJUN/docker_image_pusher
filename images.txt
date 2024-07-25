@@ -13,3 +13,4 @@ seatable/seatable-developer:4.3.0
 mariadb:10.11
 memcached:1.5.6
 redis:5.0.7
+taxinvoiceagent:zlbp_20230702
