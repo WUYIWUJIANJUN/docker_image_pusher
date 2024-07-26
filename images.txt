@@ -1,16 +1,1 @@
-vinlic/qwen-free-api:latest
-vinlic/kimi-free-api
-whyour/qinglong:latest
-mtphotos/mt-photos:latest
-zerotier/zerotier:latest
-spikhalskiy/zerotier
-linuxserver/qbittorrent
-gdy666/lucky
-justsong/one-api
-odoo:14.0
-postgres:13
-seatable/seatable-developer:4.3.0
-mariadb:10.11
-memcached:1.5.6
-redis:5.0.7
-wdmsyf/taxinvoiceagent
+wdmsyf/taxinvoiceagent:zlbp_20230702
