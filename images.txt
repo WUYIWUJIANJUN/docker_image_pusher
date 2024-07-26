@@ -1,2 +1,2 @@
-seatable/seatable-python-scheduler:latest
+seatable/seatable-python-starter:latest
 
