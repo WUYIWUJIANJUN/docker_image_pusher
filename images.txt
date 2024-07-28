@@ -1,1 +1,2 @@
-wdmsyf/taxinvoiceagent:zlbp_20230702
+mariadb:10.5
+nextcloud:28.0.3
