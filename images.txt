@@ -1,1 +1,1 @@
-seatable/seatable-developer:latest
+xiaoyaliu/alist:hostmode
